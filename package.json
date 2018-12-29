@@ -1,0 +1,23 @@
+{
+  "name": "@prudent/text-import",
+  "version": "2.0.0",
+  "description": "Server for Prudent add-ons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "Prudent",
+    "IPC",
+    "add-on",
+    "import",
+    "text",
+    "csv"
+  ],
+  "author": "Kiern Chin <kiern.chin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prudent/encode": "^2.0.0"
+  }  
+}
